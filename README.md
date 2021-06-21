@@ -4,7 +4,7 @@
 
 ### 진행 과정 이미지
 
-![full_img](./readme_img/1.jpg)
+![full_img](./readme_img/1.jpg){: width="100%" height="100%"}
 ![full_img](./readme_img/2.jpg)
 ![full_img](./readme_img/3.jpg)
 ![full_img](./readme_img/4.jpg)
